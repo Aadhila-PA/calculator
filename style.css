@@ -1,0 +1,33 @@
+
+.design{
+    text-align: center;
+    background-image: url("https://w0.peakpx.com/wallpaper/148/819/HD-wallpaper-maths-organism-blackboard-thumbnail.jpg");
+
+}
+.button{
+    background-color: darkseagreen;
+    color: rgb(24, 36, 5);
+    margin: 20px
+
+}
+.table{
+      width: 250px;
+        border: 15px solid whitesmoke;
+        padding: 50px;
+        margin: 50px;
+        background-color:darkslategrey;
+        }
+.h{
+  width: 75px ;
+  background-color: darkgrey ;
+}
+.i{
+    width: 75px;
+    background-color: darkgrey;
+}
+.yo{
+    background-color: lightgray
+}
+.hai{
+    color: black 
+}
